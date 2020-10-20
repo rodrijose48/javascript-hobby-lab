@@ -16,7 +16,7 @@ a:active {
 }
 
 
-body > header, body > footer {
+body > header, body > {
     background-color: #555555;
     height: 50px;
     padding: 20px;
@@ -60,9 +60,15 @@ header{
 }
 
 footer{
-    background-color: yellow;
+    background-color: greenyellow;
+    height: 50px;
+    padding: 20px
 }
 
 #Didyouknow{
     font-style: italic;
+}
+
+contentinfo{
+
 }
